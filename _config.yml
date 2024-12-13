@@ -40,4 +40,8 @@ defaults:
       type: post
     values:
       tags: Other
-      baseurl: "/blog"
+      
+url: https://andreamoro.net/blog
+baseurl: "/blog"
+production_url : https://andreamoro.net/blog
+BASE_PATH : https://andreamoro.net/blog
