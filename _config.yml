@@ -41,7 +41,7 @@ defaults:
     values:
       tags: Other
       
-url: https://andreamoro.net/blog
+url: https://www.harenbaren.xyz/blog
 baseurl: "/blog"
-production_url : https://andreamoro.net/blog
-BASE_PATH : https://andreamoro.net/blog
+production_url : https://www.harenbaren.xyz/blog
+BASE_PATH : https://www.harenbaren.xyz/blog
